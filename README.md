@@ -25,10 +25,10 @@
     <td width="65%" valign="top">
       <h3>🚀 About Me</h3>
       <p>
-        [cite_start]I'm an aspiring <b>Software Engineer</b> with a strong focus on <b>Flutter</b> and <b>full-stack development</b>[cite: 5]. [cite_start]I'm passionate about building impactful technology solutions and have hands-on experience with Java, Firebase, and cloud platforms[cite: 5]. [cite_start]I thrive in community environments and enjoy bringing real-world projects to life[cite: 6].
+        I'm an aspiring <b>Software Engineer</b> with a strong focus on <b>Flutter</b> and <b>full-stack development</b>. I'm passionate about building impactful technology solutions and have hands-on experience with Java, Firebase, and cloud platforms. I thrive in community environments and enjoy bringing real-world projects to life.
       </p>
       
-      <h3>🛠️ My Tech Stack (Categorized)</h3>
+      <h3>🛠️ My Tech Stack</h3>
       <p>
         <strong>Languages:</strong><br>
         <img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,dart" />
@@ -71,16 +71,16 @@
 <details>
   <summary><strong>🌾 Krishi Seva App - AI for Farmers</strong></summary>
   <br/>
-  [cite_start]<p>An app empowering Indian farmers with AI-powered disease detection, government scheme access, and smart crop recommendations[cite: 28].</p>
-  [cite_start]<p><b>Tech Used:</b> Flutter, Firebase, GCP, Gemini AI[cite: 29].</p>
+  <p>An app empowering Indian farmers with AI-powered disease detection, government scheme access, and smart crop recommendations.</p>
+  <p><b>Tech Used:</b> Flutter, Firebase, GCP, Gemini AI.</p>
   <a href="https://github.com/SaumyaPratapSingh-cyber/Krishi-Seva-App-for-to-farmers-">🔗 Source Code</a>
 </details>
 
 <details>
   <summary><strong>📚 AKTU-FIRM - Student Companion App</strong></summary>
   <br/>
-  [cite_start]<p>A Flutter-based mobile app for B.Tech students, providing notes, PYQs, and an in-built AI for generating concise solutions[cite: 31, 32].</p>
-  [cite_start]<p><b>Tech Used:</b> Flutter Flow, Firebase, GCP, Gemini AI[cite: 33].</p>
+  <p>A Flutter-based mobile app for B.Tech students, providing notes, PYQs, and an in-built AI for generating concise solutions.</p>
+  <p><b>Tech Used:</b> Flutter Flow, Firebase, GCP, Gemini AI.</p>
   <a href="https://github.com/SaumyaPratapSingh-cyber/AKTU-FIRM">🔗 Source Code</a>
 </details>
 
@@ -95,46 +95,17 @@
 <details>
   <summary><strong>🖥️ Multi-Functional GUI - Desktop Utility Suite</strong></summary>
   <br/>
-  [cite_start]<p>A versatile Python desktop application bundling multiple tools like a clock, calculator, notepad, and web search using Tkinter[cite: 35].</p>
-  [cite_start]<p><b>Tech Used:</b> Python, Modern Tkinter[cite: 37].</p>
+  <p>A versatile Python desktop application bundling multiple tools like a clock, calculator, notepad, and web search using Tkinter.</p>
+  <p><b>Tech Used:</b> Python, Modern Tkinter.</p>
   <a href="https://github.com/SaumyaPratapSingh-cyber/Multi-Functional-GUI">🔗 Source Code</a>
 </details>
 
 ---
 
-### ✨ Experience & Community
-
-<table>
-  <tr>
-    <td>💻 <strong>Internship Trainee</strong> | <em>1M1B (1 Million for 1 Billion)</em><br>
-    [cite_start]Contributed to environmental projects using data-driven insights and visualization tools like Tableau[cite: 21].</td>
-    [cite_start]<td align="right">Jun 2025 – Aug 2025 [cite: 20]</td>
-  </tr>
-  <tr>
-    <td>🎨 <strong>Graphic Design & Development Intern</strong> | <em>Padhle Akshay</em><br>
-    [cite_start]Designed engaging and informative visual materials aligned with educational objectives[cite: 17].</td>
-    [cite_start]<td align="right">Mar 2025 – Apr 2025 [cite: 15]</td>
-  </tr>
-  <tr>
-    <td>🤝 <strong>Open Source Contributor</strong> | <em>GirlScript Summer of Code, 2025</em><br>
-    [cite_start]Contributed to insightful tech projects within the open-source community[cite: 23, 24].</td>
-    <td align="right">GSSoC '25</td>
-  </tr>
-  <tr>
-    <td>👨‍💻 <strong>Volunteer</strong> | <em>GDG Prayagraj</em><br>
-    [cite_start]Actively drove diverse chapter operations including development, design, and event management[cite: 52].</td>
-    [cite_start]<td align="right">Apr 2025 – Present [cite: 51]</td>
-  </tr>
-</table>
-
----
-
-### 📈 My Contribution Graph & Activity
+### 📈 My Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SaumyaPratapSingh-cyber/SaumyaPratapSingh-cyber/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaumyaPratapSingh-cyber&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+  <img src="https://raw.githubusercontent.com/SaumyaPratapSingh-cyber/SaumyaPratapSingh-cyber/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>

@@ -18,7 +18,6 @@
   </a>
 </p>
 
----
 
 <table>
   <tr>
@@ -27,8 +26,7 @@
       <p>
         I'm an aspiring <b>Software Engineer</b> with a strong focus on <b>Flutter</b> and <b>full-stack development</b>. I'm passionate about building impactful technology solutions and have hands-on experience with Java, Firebase, and cloud platforms. I thrive in community environments and enjoy bringing real-world projects to life.
       </p>
-      
-      <h3>🛠️ My Tech Stack</h3>
+       <h3>🛠️ My Tech Stack</h3>
       <p>
         <strong>Languages:</strong><br>
         <img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,dart" />
@@ -56,8 +54,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ### 🏆 GitHub Trophies
 <p align="center">

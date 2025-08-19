@@ -41,7 +41,7 @@
       </p>
       <p>
         <strong>Tools & Platforms:</strong><br>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,postman" />
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
       </p>
     </td>
     <td width="35%" valign="top">
@@ -103,5 +103,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/SaumyaPratapSingh-cyber/SaumyaPratapSingh-cyber/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>

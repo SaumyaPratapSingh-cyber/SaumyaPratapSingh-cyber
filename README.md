@@ -10,14 +10,15 @@
   <a href="mailto:saumyrajpoot666@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[PASTE YOUR LINKEDIN URL HERE]">
+  <a href="[YOUR LINKEDIN URL HERE]">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="[PASTE YOUR PORTFOLIO URL HERE]">
+  <a href="[YOUR PORTFOLIO URL HERE]">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </p>
 
+---
 
 <table>
   <tr>
@@ -26,7 +27,8 @@
       <p>
         I'm an aspiring <b>Software Engineer</b> with a strong focus on <b>Flutter</b> and <b>full-stack development</b>. I'm passionate about building impactful technology solutions and have hands-on experience with Java, Firebase, and cloud platforms. I thrive in community environments and enjoy bringing real-world projects to life.
       </p>
-       <h3>🛠️ My Tech Stack</h3>
+      
+      <h3>🛠️ My Tech Stack</h3>
       <p>
         <strong>Languages:</strong><br>
         <img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,dart" />
@@ -41,7 +43,7 @@
       </p>
       <p>
         <strong>Tools & Platforms:</strong><br>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,postman" />
       </p>
     </td>
     <td width="35%" valign="top">
@@ -55,15 +57,27 @@
   </tr>
 </table>
 
+---
+
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SaumyaPratapSingh-cyber&theme=onedark&no-frame=true&margin-w=15&row=1&column=6" />
 </p>
 
+### 🏅 Google Cloud & Developer Badges
+<p align="center">
+  <img src="[PASTE BADGE IMAGE URL HERE]" alt="Machine Learning Crash Course: Fairness" width="120"/>
+  <img src="[PASTE BADGE IMAGE URL HERE]" alt="Cloud forums user" width="120"/>
+  <img src="[PASTE BADGE IMAGE URL HERE]" alt="Learning" width="120"/>
+  <img src="[PASTE BADGE IMAGE URL HERE]" alt="2025 Solution Challenge - Participant" width="120"/>
+  <img src="[PASTE BADGE IMAGE URL HERE]" alt="Google Cloud Skills Boost" width="120"/>
+  <img src="[PASTE BADGE IMAGE URL HERE]" alt="I/O 2024 - Registered" width="120"/>
+  <img src="[PASTE BADGE IMAGE URL HERE]" alt="Joined the Google Developer Program" width="120"/>
+</p>
+
 ---
 
 ### 📂 My Projects
-
 <details>
   <summary><strong>🌾 Krishi Seva App - AI for Farmers</strong></summary>
   <br/>
@@ -97,21 +111,36 @@
 </details>
 
 ---
-### 🏅 Google Cloud & Developer Badges
-<p align="center">
-  <img src="https://developers.google.com/static/profile/badges/playlists/machine-learning-crash-course/fairness/badge.svg",
-        href="https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/fairness" width="120"/>
-  <img src="[PASTE BADGE IMAGE URL HERE]" alt="Cloud forums user" width="120"/>
-  <img src="[PASTE BADGE IMAGE URL HERE]" alt="Learning" width="120"/>
-  <img src="[PASTE BADGE IMAGE URL HERE]" alt="2025 Solution Challenge - Participant" width="120"/>
-  <img src="[PASTE BADGE IMAGE URL HERE]" alt="Google Cloud Skills Boost" width="120"/>
-  <img src="[PASTE BADGE IMAGE URL HERE]" alt="I/O 2024 - Registered" width="120"/>
-  <img src="[PASTE BADGE IMAGE URL HERE]" alt="Joined the Google Developer Program" width="120"/>
-</p>
+
+### ✨ Experience & Community
+<table>
+  <tr>
+    <td>💻 <strong>Internship Trainee</strong> | <em>1M1B (1 Million for 1 Billion)</em><br>
+    Contributed to environmental projects using data-driven insights and visualization tools.</td>
+    <td align="right">Jun 2025 – Aug 2025</td>
+  </tr>
+  <tr>
+    <td>🎨 <strong>Graphic Design & Development Intern</strong> | <em>Padhle Akshay</em><br>
+    Designed engaging and informative visual materials aligned with educational objectives.</td>
+    <td align="right">Mar 2025 – Apr 2025</td>
+  </tr>
+  <tr>
+    <td>🤝 <strong>Open Source Contributor</strong> | <em>GirlScript Summer of Code, 2025</em><br>
+    Contributed to insightful tech projects within the open-source community.</td>
+    <td align="right">GSSoC '25</td>
+  </tr>
+  <tr>
+    <td>👨‍💻 <strong>Volunteer</strong> | <em>GDG Prayagraj</em><br>
+    Actively drove diverse chapter operations including development, design, and event management.</td>
+    <td align="right">Apr 2025 – Present</td>
+  </tr>
+</table>
+
+---
 
 ### 📈 My Contribution Activity
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/SaumyaPratapSingh-cyber/SaumyaPratapSingh-cyber/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>

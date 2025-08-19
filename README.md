@@ -97,6 +97,16 @@
 </details>
 
 ---
+### 🏅 Google Cloud & Developer Badges
+<p align="center">
+  <img src="[https://developers.google.com/static/profile/badges/playlists/machine-learning-crash-course/fairness/badge.svg]" alt="Machine Learning Crash Course: Fairness" width="120"/>
+  <img src="[PASTE BADGE IMAGE URL HERE]" alt="Cloud forums user" width="120"/>
+  <img src="[PASTE BADGE IMAGE URL HERE]" alt="Learning" width="120"/>
+  <img src="[PASTE BADGE IMAGE URL HERE]" alt="2025 Solution Challenge - Participant" width="120"/>
+  <img src="[PASTE BADGE IMAGE URL HERE]" alt="Google Cloud Skills Boost" width="120"/>
+  <img src="[PASTE BADGE IMAGE URL HERE]" alt="I/O 2024 - Registered" width="120"/>
+  <img src="[PASTE BADGE IMAGE URL HERE]" alt="Joined the Google Developer Program" width="120"/>
+</p>
 
 ### 📈 My Contribution Activity
 

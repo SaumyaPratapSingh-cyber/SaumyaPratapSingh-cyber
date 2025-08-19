@@ -99,7 +99,7 @@
 ---
 ### 🏅 Google Cloud & Developer Badges
 <p align="center">
-  <img src="[https://developers.google.com/static/profile/badges/playlists/machine-learning-crash-course/fairness/badge.svg]" alt="Machine Learning Crash Course: Fairness" width="120"/>
+  <img src="https://developers.google.com/static/profile/badges/playlists/machine-learning-crash-course/fairness/badge.svg" alt="Machine Learning Crash Course: Fairness" width="120"/>
   <img src="[PASTE BADGE IMAGE URL HERE]" alt="Cloud forums user" width="120"/>
   <img src="[PASTE BADGE IMAGE URL HERE]" alt="Learning" width="120"/>
   <img src="[PASTE BADGE IMAGE URL HERE]" alt="2025 Solution Challenge - Participant" width="120"/>

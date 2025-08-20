@@ -119,6 +119,7 @@
     </td>
     <td width="45%" align="left" valign="top"></td>
   </tr>
+
   <tr>
     <td width="45%" align="right" valign="top"></td>
     <td width="10%" align="center" valign="center">
@@ -131,6 +132,7 @@
       <p>Designed a variety of engaging visual materials aligned with educational objectives.</p>
     </td>
   </tr>
+
   <tr>
     <td width="45%" align="right" valign="top" style="padding:10px;">
       <strong>Open Source Contributor</strong><br>
@@ -142,6 +144,39 @@
       <img src="https://skillicons.dev/icons?i=github" width="64" alt="Open Source Icon"/>
     </td>
     <td width="45%" align="left" valign="top"></td>
+  </tr>
+
+  <tr>
+    <td width="45%" align="right" valign="top"></td>
+    <td width="10%" align="center" valign="center">
+      <img src="https://cdn-icons-png.flaticon.com/64/1040/1040224.png" width="64" alt="Winner Icon"/>
+    </td>
+    <td width="45%" align="left" valign="top" style="padding:10px;">
+      <strong>Winner | Kaggle Community Olympiad</strong><br>
+      <em>Organized by TFUG Prayagraj</em>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="45%" align="right" valign="top" style="padding:10px;">
+      <strong>Hackathon Recognized Certificate | Hackdiwas 2.0</strong><br>
+      <em>Organized by United University X Codify Club</em>
+    </td>
+    <td width="10%" align="center" valign="center">
+      <img src="https://cdn-icons-png.flaticon.com/64/2912/2912868.png" width="64" alt="Hackathon Icon"/>
+    </td>
+    <td width="45%" align="left" valign="top"></td>
+  </tr>
+
+  <tr>
+    <td width="45%" align="right" valign="top"></td>
+    <td width="10%" align="center" valign="center">
+      <img src="https://cdn-icons-png.flaticon.com/64/3281/3281317.png" width="64" alt="Ideathon Icon"/>
+    </td>
+    <td width="45%" align="left" valign="top" style="padding:10px;">
+      <strong>Ideathon Qualifier | UHack 3.0</strong><br>
+      <em>Organized by United College of Engineering and Research</em>
+    </td>
   </tr>
 </table>
 

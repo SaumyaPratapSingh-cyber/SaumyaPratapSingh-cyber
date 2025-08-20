@@ -199,12 +199,12 @@
   <tr>
     <td width="65%">
       <a href="https://github.com/SaumyaPratapSingh-cyber">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaumyaPratapSingh-cyber&theme=synthwave&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaumyaPratapSingh-cyber&theme=tokyonight&hide_border=true&area=true&line=ff004d&point=ff004d" alt="GitHub Activity Graph"/>
       </a>
     </td>
     <td width="35%">
       <a href="https://github.com/SaumyaPratapSingh-cyber">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaumyaPratapSingh-cyber&layout=compact&theme=synthwave&hide_border=true&langs_count=8" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaumyaPratapSingh-cyber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
       </a>
     </td>
   </tr>

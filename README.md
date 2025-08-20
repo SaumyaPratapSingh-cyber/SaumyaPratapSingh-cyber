@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="[YOUR GITHUB URL HERE]"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="[YOUR LINKEDIN URL HERE]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/saumyapratapsingha27890287lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmHTKSLxBTPGn7cQX%2FqmORQ%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="[YOUR TWITTER URL HERE]"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="[YOUR DISCORD URL HERE]"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="[YOUR PORTFOLIO URL HERE]"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white"></a>

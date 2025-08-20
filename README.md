@@ -1,11 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/main/resources/gifs/header.gif" width="100%">
-</p>
-<div align="center">
-  <h1>Saumya Pratap Singh</h1>
-</div>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/main/resources/gifs/hr.gif" width="100%">
+  <a href="https://github.com/SaumyaPratapSingh-cyber">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Saumya+Pratap+Singh;Software+Developer;Flutter+%26+Full-Stack+Enthusiast&duration=2000&effect=glitch">
+  </a>
 </p>
 
 
@@ -203,5 +199,7 @@
   </tr>
 </table>
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dev-lazar/dev-lazar/main/assets/glitch-divider-white-horz.gif" width="100%">
+</p>
 

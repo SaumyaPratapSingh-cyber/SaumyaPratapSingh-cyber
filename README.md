@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Saumya%20Pratap%20Singh&fontSize=60&fontColor=fff&animation=twinkling" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/main/resources/gifs/header.gif" width="100%">
 </p>
-
+<div align="center">
+  <h1>Saumya Pratap Singh</h1>
+</div>
 
 
 
@@ -200,5 +202,5 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=120&section=footer" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/main/resources/gifs/hr.gif" width="100%">
 </p>

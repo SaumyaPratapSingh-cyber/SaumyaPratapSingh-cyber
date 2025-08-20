@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hafidh-m/hafidh-m/main/assets/code.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Saumya%20Pratap%20Singh&fontSize=60&fontColor=fff&animation=twinkling" />
 </p>
+
+
 
 
 <div align="center">
@@ -198,5 +200,5 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hafidh-m/hafidh-m/main/assets/hr.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=120&section=footer" />
 </p>

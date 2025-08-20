@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff007f,00ffff&animation=gradient&height=200&section=header&text=Saumya%20Pratap%20Singh&fontSize=60&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=gradient&height=120&section=footer" />
 </p>
 
 <div align="center">
@@ -196,5 +196,5 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=gradient&height=120&section=footer" />
 </p>

@@ -180,11 +180,20 @@
 ---
 
 <h3 align="center">📈 Recent GitHub Activity</h3>
-<p align="center">
-  <a href="https://github.com/SaumyaPratapSingh-cyber">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaumyaPratapSingh-cyber&theme=synthwave&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-  </a>
-</p>
+<table align="center" width="90%">
+  <tr>
+    <td width="65%">
+      <a href="https://github.com/SaumyaPratapSingh-cyber">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaumyaPratapSingh-cyber&theme=dracula&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+      </a>
+    </td>
+    <td width="35%">
+      <a href="https://github.com/SaumyaPratapSingh-cyber">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaumyaPratapSingh-cyber&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />

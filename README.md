@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://github.com/SaumyaPratapSingh-cyber">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Saumya+Pratap+Singh;Software+Developer;Flutter+%26+Full-Stack+Enthusiast&duration=2000&effect=glitch">
-  </a>
+  <img src="https://raw.githubusercontent.com/prathima-kamaraj/prathima-kamaraj/master/files/header.gif" width="100%">
 </p>
-
+<div align="center">
+  <h1>Saumya Pratap Singh</h1>
+</div>
 
 
 <div align="center">
@@ -200,6 +200,5 @@
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dev-lazar/dev-lazar/main/assets/glitch-divider-white-horz.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/hafidh-m/hafidh-m/main/assets/hr.gif" width="100%">
 </p>
-

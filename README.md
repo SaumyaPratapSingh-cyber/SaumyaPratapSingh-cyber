@@ -20,19 +20,33 @@
 
 ---
 
-<h3 align="center">📊 My GitHub Stats</h3>
+<h3 align="center">📊 My GitHub Stats & Trophies</h3>
 <p align="center">
-  <a href="https://github.com/SaumyaPratapSingh-cyber">
-    <img src="https://github-readme-stats.vercel.app/api?username=SaumyaPratapSingh-cyber&show_icons=true&theme=synthwave&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/SaumyaPratapSingh-cyber">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaumyaPratapSingh-cyber&layout=compact&theme=synthwave&hide_border=true&langs_count=8" />
-  </a>
-  <br>
-  <a href="https://github.com/SaumyaPratapSingh-cyber">
-    <img src="https://streak-stats.demolab.com?user=SaumyaPratapSingh-cyber&theme=synthwave&hide_border=true" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SaumyaPratapSingh-cyber&theme=synthwave&no-frame=true&column=7&margin-w=15&margin-h=15" />
   </a>
 </p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/SaumyaPratapSingh-cyber">
+        <img src="https://github-readme-stats.vercel.app/api?username=SaumyaPratapSingh-cyber&show_icons=true&theme=synthwave&hide_border=true&count_private=true" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/SaumyaPratapSingh-cyber">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaumyaPratapSingh-cyber&layout=compact&theme=synthwave&hide_border=true&langs_count=8" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/SaumyaPratapSingh-cyber">
+        <img src="https://streak-stats.demolab.com?user=SaumyaPratapSingh-cyber&theme=synthwave&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -57,59 +71,100 @@
 <h3 align="center">📂 Projects Showcase</h3>
 <table align="center" width="90%">
   <tr>
-    <td width="50%" valign="top" style="padding: 10px;">
+    <td width="50%" valign="top" style="padding: 10px; border: 1px solid #00ffff; border-radius: 10px;">
       <h4>🌾 Krishi Seva App</h4>
       <p>An app empowering farmers with AI-powered disease detection, government scheme access, smart crop recommendations, and comprehensive farming knowledge.</p>
-      <code>Flutter</code> <code>Firebase</code> <code>GCP</code> <code>Gemini AI</code>
-      <br><br>
-      <a href="https://github.com/SaumyaPratapSingh-cyber/Krishi-Seva-App-for-to-farmers-">🔗 Source Code</a>
+      <p><strong>Tech Stack:</strong><br><img src="https://skillicons.dev/icons?i=flutter,firebase,gcp&theme=dark&perline=6"/></p>
+      <a href="https://github.com/SaumyaPratapSingh-cyber/Krishi-Seva-App-for-to-farmers-"><img src="https://img.shields.io/badge/Source_Code-00FFFF?style=for-the-badge&logo=github&logoColor=black"></a>
     </td>
-    <td width="50%" valign="top" style="padding: 10px;">
+    <td width="50%" valign="top" style="padding: 10px; border: 1px solid #00ffff; border-radius: 10px;">
       <h4>📚 AKTU-FIRM</h4>
       <p>A Flutter app for B.Tech CSE students providing notes, PYQs, and an in-built AI for generating concise solutions for educational support.</p>
-      <code>Flutter</code> <code>Firebase</code> <code>GCP</code> <code>Gemini AI</code>
-      <br><br>
-      <a href="https://github.com/SaumyaPratapSingh-cyber/AKTU-FIRM">🔗 Source Code</a>
+      <p><strong>Tech Stack:</strong><br><img src="https://skillicons.dev/icons?i=flutter,firebase,gcp&theme=dark&perline=6"/></p>
+      <a href="https://github.com/SaumyaPratapSingh-cyber/AKTU-FIRM"><img src="https://img.shields.io/badge/Source_Code-00FFFF?style=for-the-badge&logo=github&logoColor=black"></a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" style="padding: 10px;">
+    <td width="50%" valign="top" style="padding: 10px; border: 1px solid #00ffff; border-radius: 10px;">
       <h4>🛒 TechBazar</h4>
       <p>A full-featured MERN stack e-commerce application with modern UI, robust backend functionalities, and a seamless user experience.</p>
-      <code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node.js</code>
-      <br><br>
-      <a href="https://github.com/SaumyaPratapSingh-cyber/TechBazar---A-MERN-Stack-E-commerce-Application">🔗 Source Code</a>
+      <p><strong>Tech Stack:</strong><br><img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark&perline=6"/></p>
+      <a href="https://github.com/SaumyaPratapSingh-cyber/TechBazar---A-MERN-Stack-E-commerce-Application"><img src="https://img.shields.io/badge/Source_Code-00FFFF?style=for-the-badge&logo=github&logoColor=black"></a>
     </td>
-    <td width="50%" valign="top" style="padding: 10px;">
+    <td width="50%" valign="top" style="padding: 10px; border: 1px solid #00ffff; border-radius: 10px;">
       <h4>🖥️ Multi-Functional GUI</h4>
       <p>A versatile Python desktop application bundling multiple tools like a digital clock, calculator, notepad, and web search using Tkinter.</p>
-      <code>Python</code> <code>Tkinter</code>
-      <br><br>
-      <a href="https://github.com/SaumyaPratapSingh-cyber/Multi-Functional-GUI">🔗 Source Code</a>
+      <p><strong>Tech Stack:</strong><br><img src="https://skillicons.dev/icons?i=python,tkinter&theme=dark&perline=6"/></p>
+      <a href="https://github.com/SaumyaPratapSingh-cyber/Multi-Functional-GUI"><img src="https://img.shields.io/badge/Source_Code-00FFFF?style=for-the-badge&logo=github&logoColor=black"></a>
     </td>
   </tr>
 </table>
 
 ---
 
-<h3 align="center">🏆 Professional Experience & Achievements</h3>
-<table align="center" width="90%">
+<h3 align="center">🏆 Professional Journey & Achievements</h3>
+<table align="center" width="80%">
   <tr>
-    <td width="50%" valign="top">
-      <h4>Experience</h4>
-      <ul>
-        <li><b>Internship Trainee</b> | <em>1M1B (1 Million for 1 Billion)</em><br>Contributed to environmental projects through data-driven insights using Tableau.</li>
-        <li><b>Graphic Design & Development Intern</b> | <em>Padhle Akshay</em><br>Designed a variety of engaging visual materials aligned with educational objectives.</li>
-        <li><b>Open Source Contributor</b> | <em>GirlScript Summer of Code, 2025</em><br>Contributed to insightful tech projects in the open-source community.</li>
-      </ul>
+    <td width="20%" valign="top" align="center">
+      <img src="https://skillicons.dev/icons?i=idea" width="48" alt="Internship Icon"/><br>
+      <em>Jun - Aug 2025</em>
     </td>
-    <td width="50%" valign="top">
-      <h4>Achievements</h4>
-      <ul>
-        <li><b>Winner</b> | <em>Kaggle Community Olympiad: Unmasking Fakes</em><br>Organized by TFUG Prayagraj.</li>
-        <li><b>Hackathon Recognized Certificate</b> | <em>Hackdiwas 2.0</em><br>Organized by United University X Codify Club.</li>
-        <li><b>Ideathon Qualifier</b> | <em>UHack 3.0</em><br>Organized by United College of Engineering and Research.</li>
-      </ul>
+    <td width="80%" valign="top">
+      <strong>Internship Trainee</strong><br>
+      <em>1M1B (1 Million for 1 Billion)</em><br>
+      <p>Contributed to environmental projects through data-driven insights using Tableau.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top" align="center">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" alt="Design Icon"/><br>
+      <em>Mar - Apr 2025</em>
+    </td>
+    <td width="80%" valign="top">
+      <strong>Graphic Design & Development Intern</strong><br>
+      <em>Padhle Akshay</em><br>
+      <p>Designed a variety of engaging visual materials aligned with educational objectives.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top" align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="48" alt="Open Source Icon"/><br>
+      <em>GSSoC 2025</em>
+    </td>
+    <td width="80%" valign="top">
+      <strong>Open Source Contributor</strong><br>
+      <em>GirlScript Summer of Code, 2025</em><br>
+      <p>Contributed to insightful tech projects in the open-source community.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top" align="center">
+      <img src="https://cdn-icons-png.flaticon.com/64/1040/1040224.png" width="48" alt="Winner Icon"/><br>
+      <em>Achievement</em>
+    </td>
+    <td width="80%" valign="top">
+      <strong>Winner | Kaggle Community Olympiad</strong><br>
+      <em>Organized by TFUG Prayagraj</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top" align="center">
+      <img src="https://cdn-icons-png.flaticon.com/64/2912/2912868.png" width="48" alt="Hackathon Icon"/><br>
+      <em>Achievement</em>
+    </td>
+    <td width="80%" valign="top">
+      <strong>Hackathon Recognized Certificate | Hackdiwas 2.0</strong><br>
+      <em>Organized by United University X Codify Club</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top" align="center">
+      <img src="https://cdn-icons-png.flaticon.com/64/3281/3281317.png" width="48" alt="Ideathon Icon"/><br>
+      <em>Achievement</em>
+    </td>
+    <td width="80%" valign="top">
+      <strong>Ideathon Qualifier | UHack 3.0</strong><br>
+      <em>Organized by United College of Engineering and Research</em>
     </td>
   </tr>
 </table>

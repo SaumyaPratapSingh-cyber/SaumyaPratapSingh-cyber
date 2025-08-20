@@ -109,77 +109,89 @@
 <table align="center" width="90%">
   <tr>
     <td width="45%" align="right" valign="top" style="padding:10px;">
+      <strong>MakeXINternship-Prototyping & Design Intern</strong><br>
+      <em>Kalam Pragati (Centre for Advanced Studies, AKTU)</em><br>
+      <small>[July] - [August]</small><br>
+      <p>Contributed to the 'Clean Sweep AI' project, focusing on rapid prototyping and design thinking methodologies.</p>
+    </td>
+    <td width="10%" align="center" valign="center">
+      <img src="https://cdn-icons-png.flaticon.com/64/3017/3017411.png" width="64" alt="Prototyping Icon"/>
+    </td>
+    <td width="45%" align="left" valign="top"></td>
+  </tr>
+
+  <tr>
+    <td width="45%" align="right" valign="top"></td>
+    <td width="10%" align="center" valign="center">
+      <img src="https://skillicons.dev/icons?i=idea" width="64" alt="Internship Icon"/>
+    </td>
+    <td width="45%" align="left" valign="top" style="padding:10px;">
       <strong>Internship Trainee</strong><br>
       <em>1M1B (1 Million for 1 Billion)</em><br>
       <small>Jun - Aug 2025</small><br>
       <p>Contributed to environmental projects through data-driven insights using Tableau.</p>
     </td>
-    <td width="10%" align="center" valign="center">
-      <img src="https://skillicons.dev/icons?i=idea" width="64" alt="Internship Icon"/>
-    </td>
-    <td width="45%" align="left" valign="top"></td>
   </tr>
 
   <tr>
-    <td width="45%" align="right" valign="top"></td>
-    <td width="10%" align="center" valign="center">
-      <img src="https://skillicons.dev/icons?i=figma" width="64" alt="Design Icon"/>
-    </td>
-    <td width="45%" align="left" valign="top" style="padding:10px;">
+    <td width="45%" align="right" valign="top" style="padding:10px;">
       <strong>Graphic Design & Development Intern</strong><br>
       <em>Padhle Akshay</em><br>
       <small>Mar - Apr 2025</small><br>
       <p>Designed a variety of engaging visual materials aligned with educational objectives.</p>
     </td>
+    <td width="10%" align="center" valign="center">
+      <img src="https://skillicons.dev/icons?i=figma" width="64" alt="Design Icon"/>
+    </td>
+    <td width="45%" align="left" valign="top"></td>
   </tr>
 
   <tr>
-    <td width="45%" align="right" valign="top" style="padding:10px;">
+    <td width="45%" align="right" valign="top"></td>
+    <td width="10%" align="center" valign="center">
+      <img src="https://skillicons.dev/icons?i=github" width="64" alt="Open Source Icon"/>
+    </td>
+    <td width="45%" align="left" valign="top" style="padding:10px;">
       <strong>Open Source Contributor</strong><br>
       <em>GirlScript Summer of Code, 2025</em><br>
       <small>GSSoC 2025</small><br>
       <p>Contributed to insightful tech projects in the open-source community.</p>
     </td>
-    <td width="10%" align="center" valign="center">
-      <img src="https://skillicons.dev/icons?i=github" width="64" alt="Open Source Icon"/>
-    </td>
-    <td width="45%" align="left" valign="top"></td>
   </tr>
 
   <tr>
-    <td width="45%" align="right" valign="top"></td>
-    <td width="10%" align="center" valign="center">
-      <img src="https://cdn-icons-png.flaticon.com/64/1040/1040224.png" width="64" alt="Winner Icon"/>
-    </td>
-    <td width="45%" align="left" valign="top" style="padding:10px;">
+    <td width="45%" align="right" valign="top" style="padding:10px;">
       <strong>Winner | Kaggle Community Olympiad</strong><br>
       <em>Organized by TFUG Prayagraj</em>
     </td>
-  </tr>
-  
-  <tr>
-    <td width="45%" align="right" valign="top" style="padding:10px;">
-      <strong>Hackathon Recognized Certificate | Hackdiwas 2.0</strong><br>
-      <em>Organized by United University X Codify Club</em>
-    </td>
     <td width="10%" align="center" valign="center">
-      <img src="https://cdn-icons-png.flaticon.com/64/2912/2912868.png" width="64" alt="Hackathon Icon"/>
+      <img src="https://cdn-icons-png.flaticon.com/64/1040/1040224.png" width="64" alt="Winner Icon"/>
     </td>
     <td width="45%" align="left" valign="top"></td>
   </tr>
-
+  
   <tr>
     <td width="45%" align="right" valign="top"></td>
     <td width="10%" align="center" valign="center">
-      <img src="https://cdn-icons-png.flaticon.com/64/3281/3281317.png" width="64" alt="Ideathon Icon"/>
+      <img src="https://cdn-icons-png.flaticon.com/64/2912/2912868.png" width="64" alt="Hackathon Icon"/>
     </td>
     <td width="45%" align="left" valign="top" style="padding:10px;">
+      <strong>Hackathon Recognized Certificate | Hackdiwas 2.0</strong><br>
+      <em>Organized by United University X Codify Club</em>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="45%" align="right" valign="top" style="padding:10px;">
       <strong>Ideathon Qualifier | UHack 3.0</strong><br>
       <em>Organized by United College of Engineering and Research</em>
     </td>
+    <td width="10%" align="center" valign="center">
+      <img src="https://cdn-icons-png.flaticon.com/64/3281/3281317.png" width="64" alt="Ideathon Icon"/>
+    </td>
+    <td width="45%" align="left" valign="top"></td>
   </tr>
 </table>
-
 ---
 
 <h3 align="center">📈 Recent GitHub Activity</h3>

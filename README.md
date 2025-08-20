@@ -4,6 +4,9 @@
 <div align="center">
   <h1>Saumya Pratap Singh</h1>
 </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/main/resources/gifs/hr.gif" width="100%">
+</p>
 
 
 
@@ -201,6 +204,4 @@
 </table>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/main/resources/gifs/hr.gif" width="100%">
-</p>
+

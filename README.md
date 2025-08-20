@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=Saumya%20Pratap%20Singh&fontSize=60&fontColor=fff&animation=fadeIn&background=https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=200&section=header&text=Saumya%20Pratap%20Singh&fontSize=60&fontColor=fff&animation=fadeIn" />
 </p>
-
 
 
 <div align="center">
@@ -198,5 +197,5 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=footer&background=https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&section=footer" />
 </p>

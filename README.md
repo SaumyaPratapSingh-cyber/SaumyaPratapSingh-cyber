@@ -14,7 +14,7 @@
 <h3 align="center">⏰ My Coding Activity</h3>
 <p align="center">
   <a href="https://wakatime.com/@{YOUR_WAKATIME_USERNAME}">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username={YOUR_WAKATIME_USERNAME}&layout=compact&theme=catppuccin" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Saumy010&layout=compact&theme=catppuccin" />
   </a>
 </p>
 

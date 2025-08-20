@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prathima-kamaraj/prathima-kamaraj/master/files/header.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=terrain&color=auto&height=200&section=header&text=Saumya%20Pratap%20Singh&fontSize=60&fontColor=fff&animation=fadeIn" />
 </p>
-<div align="center">
-  <h1>Saumya Pratap Singh</h1>
-</div>
+
 
 
 <div align="center">
@@ -200,5 +198,5 @@
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hafidh-m/hafidh-m/main/assets/hr.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=terrain&color=auto&height=120&section=footer" />
 </p>

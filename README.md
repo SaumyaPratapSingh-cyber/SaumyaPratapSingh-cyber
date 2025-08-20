@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="metrics.svg" alt="Metrics" width="100%">
+  <img src="github-metrics.svg" alt="Metrics" width="100%">
 </p>
 
 <h3 align="center">🛠️ My Tech Stack</h3>
@@ -13,7 +13,7 @@
 
 <h3 align="center">⏰ My Coding Activity</h3>
 <p align="center">
-  <a href="https://wakatime.com/@{YOUR_WAKATIME_USERNAME}">
+  <a href="https://wakatime.com/@Saumy010">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Saumy010&layout=compact&theme=catppuccin" />
   </a>
 </p>

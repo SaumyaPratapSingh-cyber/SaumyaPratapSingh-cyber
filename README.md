@@ -1,8 +1,12 @@
 <p align="center">
-  <a href="https://github.com/SaumyaPratapSingh-cyber">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Saumya+Pratap+Singh;Aspiring+Software+Engineer;Flutter+%26+Full-Stack+Developer">
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B2FEFA,100:4158D0&height=200&section=header&text=Saumya%20Pratap%20Singh&fontSize=60&fontColor=fff&animation=fadeIn" />
 </p>
+
+<div align="center">
+  <a href="https://github.com/SaumyaPratapSingh-cyber">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;Flutter+%26+Full-Stack+Developer;Passionate+Community+Leader">
+  </a>
+</div>
 
 <p align="center">
   I'm an aspiring Software Engineer focused on <b>Flutter</b> and <b>full-stack development</b>, with hands-on experience in Java, Firebase, and cloud platforms. I am passionate about building impactful tech solutions, backed by community leadership and real-world project delivery.
@@ -136,36 +140,6 @@
     </td>
     <td width="45%" align="left" valign="top"></td>
   </tr>
-  <tr>
-    <td width="45%" align="right" valign="top"></td>
-    <td width="10%" align="center" valign="center">
-      <img src="https://cdn-icons-png.flaticon.com/64/1040/1040224.png" width="64" alt="Winner Icon"/>
-    </td>
-    <td width="45%" align="left" valign="top" style="padding:10px;">
-      <strong>Winner | Kaggle Community Olympiad</strong><br>
-      <em>Organized by TFUG Prayagraj</em>
-    </td>
-  </tr>
-  <tr>
-    <td width="45%" align="right" valign="top" style="padding:10px;">
-      <strong>Hackathon Recognized Certificate | Hackdiwas 2.0</strong><br>
-      <em>Organized by United University X Codify Club</em>
-    </td>
-    <td width="10%" align="center" valign="center">
-      <img src="https://cdn-icons-png.flaticon.com/64/2912/2912868.png" width="64" alt="Hackathon Icon"/>
-    </td>
-    <td width="45%" align="left" valign="top"></td>
-  </tr>
-  <tr>
-    <td width="45%" align="right" valign="top"></td>
-    <td width="10%" align="center" valign="center">
-      <img src="https://cdn-icons-png.flaticon.com/64/3281/3281317.png" width="64" alt="Ideathon Icon"/>
-    </td>
-    <td width="45%" align="left" valign="top" style="padding:10px;">
-      <strong>Ideathon Qualifier | UHack 3.0</strong><br>
-      <em>Organized by United College of Engineering and Research</em>
-    </td>
-  </tr>
 </table>
 
 ---
@@ -187,5 +161,5 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B2FEFA,100:4158D0&height=120&section=footer" />
 </p>

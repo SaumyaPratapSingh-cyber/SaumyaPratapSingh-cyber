@@ -4,21 +4,20 @@
 
 <div align="center">
   <a href="https://github.com/SaumyaPratapSingh-cyber">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;Flutter+%26+Full-Stack+Developer;Passionate+Community+Leader">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Edge+AI+%26+IoT+Enthusiast;Full-Stack+Software+Engineer;Community+Leader+@GDG+%26+TFUG;Winner+@+TechSprint+2025">
   </a>
 </div>
 
 <p align="center">
-  I'm an aspiring Software Engineer focused on <b>Flutter</b> and <b>full-stack development</b>, with hands-on experience in Java, Firebase, and cloud platforms. I am passionate about building impactful tech solutions, backed by community leadership and real-world project delivery.
+  I'm an aspiring Software Engineer specializing in <b>Edge AI</b>, <b>Full-Stack Development (MERN)</b>, and <b>IoT Architecture</b>. I am passionate about bridging the gap between software and hardware by deploying lightweight machine learning models on constrained edge devices. Backed by real-world execution, national hackathon wins, and active community leadership.
 </p>
 
 <p align="center">
-  <a href="[YOUR GITHUB URL HERE]"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/saumyapratapsingha27890287lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmHTKSLxBTPGn7cQX%2FqmORQ%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="[YOUR TWITTER URL HERE]"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="[YOUR DISCORD URL HERE]"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="[YOUR PORTFOLIO URL HERE]"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://github.com/SaumyaPratapSingh-cyber"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/saumya-pratap-singh-a27890287"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:saumyrajpoot666@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 </p>
 
 ---
@@ -56,160 +55,38 @@
 <h3 align="center">🛠️ Technical Skills</h3>
 <table align="center" width="90%">
   <tr>
-    <td align="center"><strong>Programming Languages</strong></td>
-    <td align="center"><strong>Libraries & Frameworks</strong></td>
-    <td align="center"><strong>Databases & Platforms</strong></td>
-    <td align="center"><strong>Tools</strong></td>
+    <td align="center"><strong>Languages</strong></td>
+    <td align="center"><strong>Frameworks & AI</strong></td>
+    <td align="center"><strong>Databases & Cloud</strong></td>
+    <td align="center"><strong>Tools & Hardware</strong></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python,java,c,html,css&theme=dark"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=flutter,javascript&theme=dark"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=firebase,gcp,supabase&theme=dark"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode,idea,figma,canva,git&theme=dark"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp,python,c,js,dart,html&theme=dark"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,tensorflow,tailwind&theme=dark"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,gcp,supabase&theme=dark"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,postman,vscode,figma,arduino&theme=dark"/></td>
   </tr>
 </table>
 
 ---
 
-<h3 align="center">📂 Projects Showcase</h3>
+<h3 align="center">📂 Featured Projects</h3>
 <table align="center" width="90%">
   <tr>
-    <td width="50%" valign="top" style="padding: 10px; border: 1px solid #00ffff; border-radius: 10px;">
-      <h4>🌾 Krishi Seva App</h4>
-      <p>An app empowering farmers with AI-powered disease detection, government scheme access, smart crop recommendations, and comprehensive farming knowledge.</p>
-      <p><strong>Tech Stack:</strong><br><img src="https://skillicons.dev/icons?i=flutter,firebase,gcp&theme=dark&perline=6"/></p>
+    <td width="50%" valign="top" style="padding: 15px; border: 1px solid #00ffff; border-radius: 10px;">
+      <h4>👁️ Kumbh-Rakshak (Biometric Grid)</h4>
+      <p>A real-time AI surveillance ecosystem capable of <500ms facial identification. Engineered the backend with PostgreSQL and pgvector for high-speed spatial similarity searches.</p>
+      <p><strong>Tech Stack:</strong><br><img src="https://skillicons.dev/icons?i=python,postgres,react,nodejs&theme=dark&perline=6"/></p>
+      <a href="https://github.com/SaumyaPratapSingh-cyber"><img src="https://img.shields.io/badge/Source_Code-00FFFF?style=for-the-badge&logo=github&logoColor=black"></a>
+    </td>
+    <td width="50%" valign="top" style="padding: 15px; border: 1px solid #00ffff; border-radius: 10px;">
+      <h4>🌾 Krishi Seva (Edge-AI)</h4>
+      <p>An offline-first mobile app running a quantized TensorFlow Lite model (EfficientNetB0) directly on the edge device, achieving 96.3% accuracy in plant disease detection.</p>
+      <p><strong>Tech Stack:</strong><br><img src="https://skillicons.dev/icons?i=flutter,tensorflow,firebase,gcp&theme=dark&perline=6"/></p>
       <a href="https://github.com/SaumyaPratapSingh-cyber/Krishi-Seva-App-for-to-farmers-"><img src="https://img.shields.io/badge/Source_Code-00FFFF?style=for-the-badge&logo=github&logoColor=black"></a>
     </td>
-    <td width="50%" valign="top" style="padding: 10px; border: 1px solid #00ffff; border-radius: 10px;">
-      <h4>📚 AKTU-FIRM</h4>
-      <p>A Flutter app for B.Tech CSE students providing notes, PYQs, and an in-built AI for generating concise solutions for educational support.</p>
-      <p><strong>Tech Stack:</strong><br><img src="https://skillicons.dev/icons?i=flutter,firebase,gcp&theme=dark&perline=6"/></p>
-      <a href="https://github.com/SaumyaPratapSingh-cyber/AKTU-FIRM"><img src="https://img.shields.io/badge/Source_Code-00FFFF?style=for-the-badge&logo=github&logoColor=black"></a>
-    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" style="padding: 10px; border: 1px solid #00ffff; border-radius: 10px;">
-      <h4>🛒 TechBazar</h4>
-      <p>A full-featured MERN stack e-commerce application with modern UI, robust backend functionalities, and a seamless user experience.</p>
-      <p><strong>Tech Stack:</strong><br><img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark&perline=6"/></p>
-      <a href="https://github.com/SaumyaPratapSingh-cyber/TechBazar---A-MERN-Stack-E-commerce-Application"><img src="https://img.shields.io/badge/Source_Code-00FFFF?style=for-the-badge&logo=github&logoColor=black"></a>
-    </td>
-    <td width="50%" valign="top" style="padding: 10px; border: 1px solid #00ffff; border-radius: 10px;">
-      <h4>🖥️ Multi-Functional GUI</h4>
-      <p>A versatile Python desktop application bundling multiple tools like a digital clock, calculator, notepad, and web search using Tkinter.</p>
-      <p><strong>Tech Stack:</strong><br><img src="https://skillicons.dev/icons?i=python,tkinter&theme=dark&perline=6"/></p>
-      <a href="https://github.com/SaumyaPratapSingh-cyber/Multi-Functional-GUI"><img src="https://img.shields.io/badge/Source_Code-00FFFF?style=for-the-badge&logo=github&logoColor=black"></a>
-    </td>
-  </tr>
-</table>
-
----
-
-<h3 align="center">🏆 Professional Journey & Achievements</h3>
-<table align="center" width="90%">
-  <tr>
-    <td width="45%" align="right" valign="top" style="padding:10px;">
-      <strong>MakeXINternship-Prototyping & Design Intern</strong><br>
-      <em>Kalam Pragati (Centre for Advanced Studies, AKTU)</em><br>
-      <small>[July] - [August]</small><br>
-      <p>Contributed to the 'Clean Sweep AI' project, focusing on rapid prototyping and design thinking methodologies.</p>
-    </td>
-    <td width="10%" align="center" valign="center">
-      <img src="https://cdn-icons-png.flaticon.com/64/3017/3017411.png" width="64" alt="Prototyping Icon"/>
-    </td>
-    <td width="45%" align="left" valign="top"></td>
-  </tr>
-
-  <tr>
-    <td width="45%" align="right" valign="top"></td>
-    <td width="10%" align="center" valign="center">
-      <img src="https://skillicons.dev/icons?i=idea" width="64" alt="Internship Icon"/>
-    </td>
-    <td width="45%" align="left" valign="top" style="padding:10px;">
-      <strong>Internship Trainee</strong><br>
-      <em>1M1B (1 Million for 1 Billion)</em><br>
-      <small>Jun - Aug 2025</small><br>
-      <p>Contributed to environmental projects through data-driven insights using Tableau.</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="45%" align="right" valign="top" style="padding:10px;">
-      <strong>Graphic Design & Development Intern</strong><br>
-      <em>Padhle Akshay</em><br>
-      <small>Mar - Apr 2025</small><br>
-      <p>Designed a variety of engaging visual materials aligned with educational objectives.</p>
-    </td>
-    <td width="10%" align="center" valign="center">
-      <img src="https://skillicons.dev/icons?i=figma" width="64" alt="Design Icon"/>
-    </td>
-    <td width="45%" align="left" valign="top"></td>
-  </tr>
-
-  <tr>
-    <td width="45%" align="right" valign="top"></td>
-    <td width="10%" align="center" valign="center">
-      <img src="https://skillicons.dev/icons?i=github" width="64" alt="Open Source Icon"/>
-    </td>
-    <td width="45%" align="left" valign="top" style="padding:10px;">
-      <strong>Open Source Contributor</strong><br>
-      <em>GirlScript Summer of Code, 2025</em><br>
-      <small>GSSoC 2025</small><br>
-      <p>Contributed to insightful tech projects in the open-source community.</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="45%" align="right" valign="top" style="padding:10px;">
-      <strong>Winner | Kaggle Community Olympiad</strong><br>
-      <em>Organized by TFUG Prayagraj</em>
-    </td>
-    <td width="10%" align="center" valign="center">
-      <img src="https://cdn-icons-png.flaticon.com/64/1040/1040224.png" width="64" alt="Winner Icon"/>
-    </td>
-    <td width="45%" align="left" valign="top"></td>
-  </tr>
-  
-  <tr>
-    <td width="45%" align="right" valign="top"></td>
-    <td width="10%" align="center" valign="center">
-      <img src="https://cdn-icons-png.flaticon.com/64/2912/2912868.png" width="64" alt="Hackathon Icon"/>
-    </td>
-    <td width="45%" align="left" valign="top" style="padding:10px;">
-      <strong>Hackathon Recognized Certificate | Hackdiwas 2.0</strong><br>
-      <em>Organized by United University X Codify Club</em>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="45%" align="right" valign="top" style="padding:10px;">
-      <strong>Ideathon Qualifier | UHack 3.0</strong><br>
-      <em>Organized by United College of Engineering and Research</em>
-    </td>
-    <td width="10%" align="center" valign="center">
-      <img src="https://cdn-icons-png.flaticon.com/64/3281/3281317.png" width="64" alt="Ideathon Icon"/>
-    </td>
-    <td width="45%" align="left" valign="top"></td>
-  </tr>
-</table>
----
-
-<h3 align="center">📈 Recent GitHub Activity</h3>
-<table align="center" width="90%">
-  <tr>
-    <td width="65%">
-      <a href="https://github.com/SaumyaPratapSingh-cyber">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaumyaPratapSingh-cyber&theme=tokyonight&hide_border=true&area=true&line=ff004d&point=ff004d" alt="GitHub Activity Graph"/>
-      </a>
-    </td>
-    <td width="35%">
-      <a href="https://github.com/SaumyaPratapSingh-cyber">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaumyaPratapSingh-cyber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B2FEFA,100:4158D0&height=120&section=footer" />
-</p>
+    <td width="50%" valign="top" style="padding: 15px; border: 1px solid #00ffff; border-radius: 10px;">
+      <h4>🤖 PrepXtra (AI Career Architect)</h4>
+      <p>An immersive AI platform featuring a real-time
